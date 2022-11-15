@@ -32,7 +32,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 div.main {
   display: flex;
   width: 100%;

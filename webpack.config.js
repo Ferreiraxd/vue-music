@@ -31,7 +31,7 @@ module.exports = {
         use: [
           'vue-style-loader',
           'css-loader',
-          'sass-loader?indentedSyntax'
+          'sass-loader'
         ],
       },
       {
@@ -50,7 +50,7 @@ module.exports = {
             'sass': [
               'vue-style-loader',
               'css-loader',
-              'sass-loader?indentedSyntax'
+              'sass-loader'
             ]
           }
           // other vue-loader options go here

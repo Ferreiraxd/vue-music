@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.26.1",
     "bulma": "^0.9.3",
+    "sass": "^1.56.1",
     "vue": "^2.5.11",
     "vue-audio-visual": "^2.4.1",
     "vue-axios": "^3.4.1",
@@ -40,8 +41,8 @@
     "eslint-plugin-promise": "^5.2.0",
     "eslint-plugin-vue": "^8.6.0",
     "file-loader": "^1.1.11",
-    "node-sass": "^4.5.3",
-    "sass-loader": "^6.0.6",
+    "node-sass": "^8.0.0",
+    "sass-loader": "^6.0.7",
     "vue-loader": "^13.0.5",
     "vue-template-compiler": "^2.4.4",
     "vuex": "^3.6.2",

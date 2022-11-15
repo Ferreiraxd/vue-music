@@ -13,7 +13,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style  scoped>
 .content {
   padding: 20px;
   min-height: 40vh;
