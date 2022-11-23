@@ -1,5 +1,5 @@
 <template>
-  <div class="content">
+  <div class="content" v-if="!placeHolder">
     <div v-if="placeHolder" class="image-holder">
       <img src="https://via.placeholder.com/48x48.png" />
     </div>

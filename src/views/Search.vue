@@ -149,7 +149,7 @@ export default {
 
 .section {
   background-color: #181624;
-  min-height: 87vh;
+  min-height: 81vh;
   padding-top: 2rem;
 }
 

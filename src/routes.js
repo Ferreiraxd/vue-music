@@ -5,7 +5,7 @@ import TrackDetail from '@/views/TrackDetail.vue';
 function guardMyroute(to, from, next)
 {
   if(from.name !== 'search'){
-    next('/search');
+    next({ name: 'search' });
   } else {
     next();
   }
